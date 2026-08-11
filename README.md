@@ -1,6 +1,6 @@
 # JA-TUI
 
-<p align="center"> <img src="assets/ja-tui.png" alt="JA-TUI" width="128"> </p>
+<p align="start"> <img src="assets/ja-tui.png" alt="JA-TUI" width="150"> </p>
 
 JA-TUI is a small terminal UI tool for creating _web projects_ without having to type out the usual setup commands.
 
